@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "name": "Classic Bruschetta",
+    "description": "Grilled bread topped with fresh tomatoes, garlic, basil, and extra virgin olive oil",
+    "price": 250,
+    "categoryId": 1,
+  "image":"https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=500&q=80"
+    "availability": true
+  },
+  {
+    "id": 2,
+    "name": "Stuffed Mushrooms",
+    "description": "Jumbo mushroom caps filled with breadcrumbs, parmesan, herbs, and garlic butter",
+    "price": 280,
+    "categoryId": 1,
+  "image":"/images/stuffed-mushrooms.svg"
+    "availability": true
+  },
+  {
+    "id": 3,
+    "name": "Crispy Calamari Rings",
+    "description": "Fresh calamari rings lightly breaded and fried golden, served with marinara sauce",
+    "price": 320,
+    "categoryId": 1,
+    "image": "https://images.unsplash.com/photo-1617191519007-7c8c4f3b7e6b?auto=format&fit=crop&w=500&q=80",
+    "availability": true
+  },
+  {
+    "id": 4,
+    "name": "Spinach Artichoke Dip",
+    "description": "Creamy dip with spinach, artichoke hearts, three cheeses, served with warm pita",
+    "price": 290,
+    "categoryId": 1,
+    "image": "https://images.unsplash.com/photo-1572441713132-51c75654db73?auto=format&fit=crop&w=500&q=80",
+    "availability": true
+  },
+  {
+    "id": 5,
+    "name": "Deviled Eggs",
+    "description": "Traditional deviled eggs with smoked paprika and crispy bacon bits",
+    "price": 220,
+    "categoryId": 1,
+    "image": "https://images.unsplash.com/photo-1585238342024-78d387f4a707?auto=format&fit=crop&w=500&q=80",
+    "availability": true
+  },
+  {
+    "id": 6,
+    "name": "Grilled Salmon Fillet",
+    "description": "Fresh Atlantic salmon grilled with lemon-dill butter, asparagus spears",
+    "price": 650,
+    "categoryId": 2,
+    "image": "https://images.unsplash.com/photo-1604908177225-5403a0bcb7f1?auto=format&fit=crop&w=500&q=80",
+    "availability": true
+  },
+  {
+    "id": 7,
+    "name": "USDA Prime Ribeye",
+    "description": "16oz prime ribeye with house steak sauce, truffle fries, seasonal vegetables",
+    "price": 1250,
+    "categoryId": 2,
+    "image": "https://images.unsplash.com/photo-1558030006-450675393462?auto=format&fit=crop&w=500&q=80",
+    "availability": true
+  },
+  {
+    "id": 8,
+    "name": "Chicken Parmesan",
+    "description": "Breaded chicken breast, marinara, fresh mozzarella, spaghetti",
+    "price": 520,
+    "categoryId": 2,
+    "image": "https://images.unsplash.com/photo-1608756687911-aa1599ab3bd9?auto=format&fit=crop&w=500&q=80",
+    "availability": true
+  },
+  {
+    "id": 9,
+    "name": "House-Made Ravioli",
+    "description": "Lobster and ricotta ravioli in pink cream sauce with spinach",
+    "price": 720,
+    "categoryId": 2,
+    "image": "https://images.unsplash.com/photo-1589308078059-be1415eab4c3?auto=format&fit=crop&w=500&q=80",
+    "availability": true
+  },
+  {
+    "id": 10,
+    "name": "Pasta Bolognese",
+    "description": "Slow-simmered beef ragu with pappardelle, parmesan, fresh basil",
+    "price": 470,
+    "categoryId": 2,
+    "image": "https://images.unsplash.com/photo-1598514983318-2f64f8f4796c?auto=format&fit=crop&w=500&q=80",
+    "availability": true
+  },
+  {
+    "id": 11,
+    "name": "Seared Scallops",
+    "description": "Jumbo sea scallops with cauliflower puree and balsamic reduction",
+    "price": 820,
+    "categoryId": 2,
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=500&q=80",
+    "availability": true
+  },
+  {
+    "id": 12,
+    "name": "Thai Curry Bowl",
+    "description": "Red curry with coconut milk, shrimp, rice noodles, vegetables",
+    "price": 570,
+    "categoryId": 2,
+    "image": "https://images.unsplash.com/photo-1604908177522-402c9c9d4e2c?auto=format&fit=crop&w=500&q=80",
+    "availability": true
+  },
+  {
+    "id": 13,
+    "name": "Classic Tiramisu",
+    "description": "Traditional Italian coffee dessert with mascarpone and ladyfingers",
+    "price": 320,
+    "categoryId": 3,
+    "image": "https://images.unsplash.com/photo-1571877227200-a0d98ea607e9?auto=format&fit=crop&w=500&q=80",
+    "availability": true
+  },
+  {
+    "id": 14,
+    "name": "New York Cheesecake",
+    "description": "Rich cheesecake with graham crust, mixed berry compote",
+    "price": 370,
+    "categoryId": 3,
+    "image": "https://images.unsplash.com/photo-1559622214-1f76d7a9c9a1?auto=format&fit=crop&w=500&q=80",
+    "availability": true
+  },
+  {
+    "id": 15,
+    "name": "Chocolate Lava Cake",
+    "description": "Warm molten chocolate cake with vanilla bean ice cream",
+    "price": 340,
+    "categoryId": 3,
+    "image": "https://images.unsplash.com/photo-1601972599720-36938d4ecd31?auto=format&fit=crop&w=500&q=80",
+    "availability": true
+  },
+  {
+    "id": 16,
+    "name": "Crème Brûlée",
+    "description": "Silky vanilla custard with caramelized sugar crust",
+    "price": 350,
+    "categoryId": 3,
+    "image": "https://images.unsplash.com/photo-1551024601-bec78aea704b?auto=format&fit=crop&w=500&q=80",
+    "availability": true
+  },
+  {
+    "id": 17,
+    "name": "Apple Crumble",
+    "description": "Warm cinnamon apples with oat crumble and caramel sauce",
+    "price": 300,
+    "categoryId": 3,
+    "image": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?auto=format&fit=crop&w=500&q=80",
+    "availability": true
+  },
+  {
+    "id": 18,
+    "name": "Lemon Posset",
+    "description": "Creamy lemon dessert with shortbread cookies",
+    "price": 270,
+    "categoryId": 3,
+    "image": "https://images.unsplash.com/photo-1627308595229-7830a5c91f9f?auto=format&fit=crop&w=500&q=80",
+    "availability": true
+  },
+  {
+    "id": 19,
+    "name": "Fresh Iced Tea",
+    "description": "House-brewed black iced tea with lemon, refillable",
+    "price": 120,
+    "categoryId": 4,
+    "image": "https://images.unsplash.com/photo-1497534446932-c925b458314e?auto=format&fit=crop&w=500&q=80",
+    "availability": true
+  },
+  {
+    "id": 20,
+    "name": "Craft Lemonade",
+    "description": "Fresh squeezed lemonade with mint infusion, refillable",
+    "price": 150,
+    "categoryId": 4,
+    "image": "https://images.unsplash.com/photo-1527169402691-a6e45a0cbd2e?auto=format&fit=crop&w=500&q=80",
+    "availability": true
+  },
+  {
+    "id": 21,
+    "name": "House Craft Soda",
+    "description": "Rotating flavors - ginger, lavender, strawberry basil",
+    "price": 170,
+    "categoryId": 4,
+    "image": "https://images.unsplash.com/photo-1581006852262-e4307cf6283a?auto=format&fit=crop&w=500&q=80",
+    "availability": true
+  },
+  {
+    "id": 22,
+    "name": "Cabernet Sauvignon",
+    "description": "Glass of California Cabernet Sauvignon",
+    "price": 420,
+    "categoryId": 4,
+    "image": "https://images.unsplash.com/photo-1510627498534-cf7e9002facc?auto=format&fit=crop&w=500&q=80",
+    "availability": true
+  },
+  {
+    "id": 23,
+    "name": "Prosecco",
+    "description": "Sparkling Italian Prosecco by the glass",
+    "price": 370,
+    "categoryId": 4,
+    "image": "https://images.unsplash.com/photo-1605270012917-bf157c5a9541?auto=format&fit=crop&w=500&q=80",
+    "availability": true
+  },
+  {
+    "id": 24,
+    "name": "IPA Craft Beer",
+    "description": "Local IPA - citrus hop aroma, crisp finish",
+    "price": 270,
+    "categoryId": 4,
+    "image": "https://images.unsplash.com/photo-1514361892635-e9551e25d8dc?auto=format&fit=crop&w=500&q=80",
+    "availability": true
+  },
+  {
+    "id": 25,
+    "name": "Espresso Martini",
+    "description": "Vodka, espresso, coffee liqueur - shaken tableside",
+    "price": 470,
+    "categoryId": 4,
+    "image": "https://images.unsplash.com/photo-1605478575507-3b7a3d5c8e21?auto=format&fit=crop&w=500&q=80",
+    "availability": true
+  },
+  {
+    "id": 26,
+    "name": "French Fries",
+    "description": "House-cut fries with house-made ketchup",
+    "price": 220,
+    "categoryId": 1,
+    "image": "https://images.unsplash.com/photo-1541592106381-b31e9677c0e5?auto=format&fit=crop&w=500&q=80",
+    "availability": true
+  },
+  {
+    "id": 27,
+    "name": "Truffle Fries",
+    "description": "Crispy fries tossed with truffle oil and parmesan",
+    "price": 370,
+    "categoryId": 1,
+    "image": "https://images.unsplash.com/photo-1606755962773-d324e0a13086?auto=format&fit=crop&w=500&q=80",
+    "availability": true
+  },
+  {
+    "id": 28,
+    "name": "Caesar Salad",
+    "description": "Romaine, house dressing, parmesan crisps, anchovy",
+    "price": 320,
+    "categoryId": 1,
+    "image": "https://images.unsplash.com/photo-1550304943-4f24f54ddde9?auto=format&fit=crop&w=500&q=80",
+    "availability": true
+  },
+  {
+    "id": 29,
+    "name": "Beef Wellington",
+    "description": "Filet mignon wrapped in puff pastry with mushroom duxelle",
+    "price": 1550,
+    "categoryId": 2,
+    "image": "https://images.unsplash.com/photo-1604908177075-3f1c3f76c2d6?auto=format&fit=crop&w=500&q=80",
+    "availability": true
+  },
+  {
+    "id": 30,
+    "name": "Sorbet Trio",
+    "description": "House-made mango, raspberry, lemon sorbet",
+    "price": 270,
+    "categoryId": 3,
+    "image": "https://images.unsplash.com/photo-1590080877777-98a3c3c1a4f4?auto=format&fit=crop&w=500&q=80",
+    "availability": true
+  }
+]

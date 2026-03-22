@@ -1,0 +1,95 @@
+[
+  {
+    "id": 1,
+    "customerId": "cust001",
+    "items": [
+      {
+        "id": 1,
+        "name": "Classic Bruschetta",
+        "price": 8.99,
+        "quantity": 2,
+        "image": "https://source.unsplash.com/400x300/?bruschetta"
+      },
+      {
+        "id": 6,
+        "name": "Grilled Salmon Fillet",
+        "price": 24.99,
+        "quantity": 1,
+        "image": "https://source.unsplash.com/400x300/?grilled-salmon"
+      }
+    ],
+    "total": 42.97,
+    "status": "confirmed",
+    "createdAt": "2024-10-01T10:30:00Z",
+    "address": "123 Farm Lane, Grainville",
+    "paymentMethod": "card"
+  },
+  {
+    "id": 2,
+    "customerId": "cust002",
+    "items": [
+      {
+        "id": 2,
+        "name": "Stuffed Mushrooms",
+        "price": 9.99,
+        "quantity": 3,
+        "image": "https://source.unsplash.com/400x300/?stuffed-mushrooms"
+      }
+    ],
+    "total": 29.97,
+    "status": "pending",
+    "createdAt": "2024-10-01T11:15:00Z",
+    "paymentMethod": "cash"
+  },
+  {
+    "id": 3,
+    "customerId": "cust003",
+    "items": [
+      {
+        "id": 7,
+        "name": "USDA Prime Ribeye",
+        "price": 42.99,
+        "quantity": 1,
+        "image": "https://source.unsplash.com/400x300/?ribeye-steak"
+      }
+    ],
+    "total": 42.99,
+    "status": "confirmed",
+    "createdAt": "2024-10-01T12:45:00Z",
+    "address": "456 Wheat Street, Graze City",
+    "paymentMethod": "upi"
+  },
+  {
+    "id": 4,
+    "customerId": "cust004",
+    "items": [
+      {
+        "id": 13,
+        "name": "Classic Tiramisu",
+        "price": 9.99,
+        "quantity": 2,
+        "image": "https://source.unsplash.com/400x300/?tiramisu"
+      }
+    ],
+    "total": 19.98,
+    "status": "pending",
+    "createdAt": "2024-10-01T14:20:00Z"
+  },
+  {
+    "id": 5,
+    "customerId": "cust005",
+    "items": [
+      {
+        "id": 26,
+        "name": "French Fries",
+        "price": 5.99,
+        "quantity": 1,
+        "image": "https://source.unsplash.com/400x300/?french-fries"
+      }
+    ],
+    "total": 5.99,
+    "status": "cancelled",
+    "createdAt": "2024-10-01T15:10:00Z",
+    "reason": "Customer cancelled"
+  }
+]

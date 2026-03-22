@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Classic Bruschetta",
+    "description": "Grilled bread topped with fresh tomatoes, garlic, basil, and extra virgin olive oil",
+    "price": 250,
+    "categoryId": 1,
+    "image": "/images/bruschetta.svg",
+    "availability": true
+  },
+  {
+    "id": 2,
+    "name": "Stuffed Mushrooms",
+    "description": "Jumbo mushroom caps filled with breadcrumbs, parmesan, herbs, and garlic butter",
+    "price": 280,
+    "categoryId": 1,
+    "image": "/images/stuffed-mushrooms.svg",
+    "availability": true
+  },
+  {
+    "id": 3,
+    "name": "Crispy Calamari Rings",
+    "description": "Fresh calamari rings lightly breaded and fried golden, served with marinara sauce",
+    "price": 320,
+    "categoryId": 1,
+    "image": "/images/default-dish.svg",
+    "availability": true
+  },
+  {
+    "id": 4,
+    "name": "Spinach Artichoke Dip",
+    "description": "Creamy dip with spinach, artichoke hearts, three cheeses, served with warm pita",
+    "price": 290,
+    "categoryId": 1,
+    "image": "/images/default-dish.jpg",
+    "availability": true
+  },
+  {
+    "id": 6,
+    "name": "Grilled Salmon Fillet",
+    "description": "Fresh Atlantic salmon grilled with lemon-dill butter, asparagus spears",
+    "price": 650,
+    "categoryId": 2,
+    "image": "/images/salmon.jpg",
+    "availability": true
+  },
+  {
+    "id": 7,
+    "name": "USDA Prime Ribeye",
+    "description": "16oz prime ribeye with house steak sauce, truffle fries, seasonal vegetables",
+    "price": 1250,
+    "categoryId": 2,
+    "image": "/images/ribeye.jpg",
+    "availability": true
+  },
+  {
+    "id": 29,
+    "name": "Beef Wellington",
+    "description": "Filet mignon wrapped in puff pastry with mushroom duxelle",
+    "price": 1550,
+    "categoryId": 2,
+    "image": "/images/default-dish.jpg",
+    "availability": true
+  },
+  {
+    "id": 30,
+    "name": "Sorbet Trio",
+    "description": "House-made mango, raspberry, lemon sorbet",
+    "price": 270,
+    "categoryId": 3,
+    "image": "/images/default-dish.svg",
+    "availability": true
+  }
+]

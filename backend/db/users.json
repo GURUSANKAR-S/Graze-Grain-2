@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "email": "admin@grazeandgrain.com",
+    "password": "admin",
+    "name": "Admin User",
+    "role": "admin",
+    "phone": "123-456-7890"
+  },
+  {
+    "id": 2,
+    "email": "customer@test.com",
+    "password": "customer",
+    "name": "John Doe",
+    "role": "customer",
+    "phone": "987-654-3210"
+  }
+]

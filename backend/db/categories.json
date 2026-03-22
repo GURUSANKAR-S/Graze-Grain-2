@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Appetizers",
+    "active": true
+  },
+  {
+    "id": 2,
+    "name": "Main Courses",
+    "active": true
+  },
+  {
+    "id": 3,
+    "name": "Desserts",
+    "active": true
+  },
+  {
+    "id": 4,
+    "name": "Drinks",
+    "active": true
+  }
+]
